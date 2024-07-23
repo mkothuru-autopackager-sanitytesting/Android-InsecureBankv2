@@ -10,7 +10,7 @@ This is a major update to one of my previous projects - "InsecureBank". This vul
 * Flawed Broadcast Receivers.
 * Intent Sniffing and Injection
 * Weak Authorization mechanism
-* Local Encryption issues
+* Local Encryption issues.
 * Vulnerable Activity Components
 * Root Detection and Bypass
 * Emulator Detection and Bypass
